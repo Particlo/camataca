@@ -7,3 +7,5 @@ the camera weights 1MB but avif and jxl codecs increase the size to 45MB
 the app is installed using APK file  
 https://github.com/Particlo/camataca/raw/refs/heads/main/camataca.apk  
 search for "how to install an APK file" if you dont know about APK
+
+https://github.com/Particlo/camataca/blob/main/screenshot.png?raw=true
