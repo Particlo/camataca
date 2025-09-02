@@ -8,6 +8,6 @@ the app is installed using APK file
 https://github.com/Particlo/camataca/raw/refs/heads/main/camataca.apk  
 search for "how to install an APK file" if you dont know about APK
 
-<video src='https://github.com/Particlo/camataca/raw/refs/heads/main/rec.mp4' width=180/>
+[video](https://github.com/Particlo/camataca/raw/refs/heads/main/rec.mp4)
 
 ![image](screenshot.png)
