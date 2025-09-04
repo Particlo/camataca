@@ -12,6 +12,6 @@ the app is installed using APK file
 https://github.com/Particlo/camataca/raw/refs/heads/main/camataca.apk  
 search for "how to install an APK file" if you dont know about APK
 
-[video](https://github.com/Particlo/camataca/raw/refs/heads/main/rec.mp4)
+https://github.com/user-attachments/assets/15f9861e-4017-4b61-b719-351eb0a3fca6
 
 ![image](screenshot.png)
